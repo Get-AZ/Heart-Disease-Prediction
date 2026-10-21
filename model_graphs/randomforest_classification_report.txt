@@ -1,0 +1,8 @@
+                  precision    recall  f1-score   support
+
+HeartDisease = 0     0.8000    0.7805    0.7901        82
+HeartDisease = 1     0.8269    0.8431    0.8350       102
+
+        accuracy                         0.8152       184
+       macro avg     0.8135    0.8118    0.8125       184
+    weighted avg     0.8149    0.8152    0.8150       184

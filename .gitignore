@@ -1,0 +1,20 @@
+env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+mlruns/
+mlflow_artifacts/
+*.db
+*.db-*
+*.sqlite*
+.vscode/
+.DS_Store
+
+# Local dataset and fitted artifacts
+data/*.csv
+models/*.pkl
