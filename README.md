@@ -1,3 +1,4 @@
+![Heart Disease Prediction project cover](Heart_Dieases_Pridiction.png)
 # Heart Disease Prediction
 
 **Author: Getamesay Zegeye (Get-AZ)**
